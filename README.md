@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🔥 HR ATTRITION DASHBOARD 🔥
-### *built in R · by Amit Kumar · D_09*
+### *built in R · by Amit Kumar *
 
 <br>
 
@@ -163,7 +163,7 @@ the number on the tile = attrition %. hover it for the full breakdown.
 
 ---
 
-**Amit Kumar** · D_09 · Roll No: 25020441028
+**Amit Kumar** 
 
 *February 2026*
 
