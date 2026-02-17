@@ -39,10 +39,10 @@ this project takes HR compensation data and breaks down employee attrition by:
 | 🕐 Hours Worked/Week | ⚖️ Work-Life Balance Score | 🧑 Gender |
 |---|---|---|
 | bucketed into ranges | scored 1–10, also bucketed | Male / Female / Other |
-
+</div>
 output is a **fully interactive HTML dashboard** — hover over any tile, get the exact numbers.
 
-</div>
+
 
 ---
 
